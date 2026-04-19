@@ -32,13 +32,14 @@ Use suitable visualizations to verify the following hypotheses:
 
 ### Task 2: Create and Verify New Hypotheses
 
-- Propose five additional hypotheses.
-- Verify each hypothesis using suitable visualizations.
-- For each hypothesis, state whether it is accepted or rejected based on visual evidence.
-- Justify the visualization choice by explaining the marks and visual channels used.
+1. Students attempting quizzes during the night tend to score higher than those who attempt at day
+2. Score improvements decrease after several attempts (learning plateaus over time).
+3. Students tend to exhibit consistent performance across all quizzes.
+4. Students who fail the first question (Q1) are statistically more likely to have a lower success rate on subsequent questions (Q2-Q5) compared to those who get Q1 correct.
+5. Students who score on hard questions achieve disproportionately higher overall grades than students who only score on easy questions.
 
 ## Repository Contents
 
-- `Task 1/`: notebooks and data for Task 1 analysis.
-- `Task 2/`: notebooks and analysis for the five additional hypotheses.
-- `README.md`: project overview and submission guide.
+- `Task 1/`: notebooks and data for Task 1 analysis. Python notebooks are numbered according to hypothesis question number.
+- `Task 2/`: notebooks and analysis for the five additional hypotheses. Python notebooks are numbered according to above `Task 2` order.
+
