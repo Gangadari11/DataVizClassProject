@@ -2,13 +2,9 @@
 
 This repository contains our group submission for the CS3751 Data Visualization class project.
 
-The class project accounts for 30% of the final grade.
-
 ## Project Context
 
-- This is a group project, and submissions are done group-wise according to the given group allocation.
-- The dataset includes attempt-level details for three quizzes, including marks breakdowns.
-- A student may attempt the same quiz multiple times.
+- This project focuses on analyzing student quiz-attempt data and validating key hypotheses through effective visualizations.
 
 ## Dataset Overview
 
@@ -21,11 +17,6 @@ The quiz data includes the following attributes:
 - Marks out of 10
 - Marks for individual questions
 
-Data files are available under:
-
-- `Task 1/dataset/marks/quiz1/quiz1_marks.csv`
-- `Task 1/dataset/marks/quiz2/quiz2_marks.csv`
-- `Task 1/dataset/marks/quiz3/quiz3_marks.csv`
 
 ## Project Tasks
 
@@ -45,12 +36,6 @@ Use suitable visualizations to verify the following hypotheses:
 - Verify each hypothesis using suitable visualizations.
 - For each hypothesis, state whether it is accepted or rejected based on visual evidence.
 - Justify the visualization choice by explaining the marks and visual channels used.
-
-## Visualization Requirements
-
-- Follow good visualization design principles.
-- Prioritize correctness of chart type and clarity of communication.
-- Creativity is expected and evaluated.
 
 ## Repository Contents
 
